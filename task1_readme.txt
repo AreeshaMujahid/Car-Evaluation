@@ -1,0 +1,4 @@
+We developed the car evaluation system.Evaluating the conditions of a car before purchasing plays a crucial role in decision making. Manually, classifying a good or 
+acceptable condition car from an unacceptable conditioned car is time-consuming and labor-intensive. We can leverage Machine Learning techniques to develop an 
+automatic system for car evaluation as ML has been showing promising results in solving classification-related problems. In this project, we will be analyzing 
+different physical qualifications of a car and subsequently, assist/recommend a user in their decision-making process based on the cars’ attributes.
